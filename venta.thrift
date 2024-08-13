@@ -15,5 +15,5 @@ struct Venta {
 }
 
 service VentaServicio {
-string agregar_Venta(1: Venta new_venta),
+string agregar_Venta(1: Venta new_venta)
 }
