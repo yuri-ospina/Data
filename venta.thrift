@@ -11,7 +11,7 @@ struct Venta {
 8: string forma_de_pago,
 9: i32 calificacion_venta,
 10: string id_cliente,
-11: string correo_cliente,
+11: string correo_cliente
 }
 
 service VentaServicio {
